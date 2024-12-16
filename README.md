@@ -1,12 +1,12 @@
 # 👋 Hi there, I'm Pravin Kale!
 
 ## 🚀 About Me
-- 🌱 Currently learning **React** and **Tailwind CSS**.
+- 🌱 Currently learning **Java** and **spring Boot**.
 - 👨‍💻 Passionate about web development, full-stack projects, and solving real-world problems.
 - 🎯 Goal: Build scalable and user-friendly applications.
 
 ## 💼 My Projects
-- **[To-Do List App](https://github.com/yourusername/todolist)**: A full-stack task management app using Node.js, PostgreSQL, and Tailwind CSS.
+- **[To-Do List App](https://github.com/yourusername/todolist)**: A full-stack task management app using Node.js, PostgreSQL, and  CSS.
 - **Portfolio Website**: A showcase of my skills and projects.
 
 <h3 align="center">📊 Status:</h3>
