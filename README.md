@@ -6,8 +6,7 @@
 - 🎯 Goal: Build scalable and user-friendly applications.
 
 ## 💼 My Projects
-- **[To-Do List App](https://github.com/yourusername/todolist)**: A full-stack task management app using Node.js, PostgreSQL, and  CSS.
-- **Portfolio Website**: A showcase of my skills and projects.
+- **[Employee Management System App](https://github.com/pravinpk2002/employee-management-react-springboot)**: A full-stack CRUD application for managing employee records using Spring Boot for the backend and React for the frontend. The app supports features like adding, updating, deleting, and viewing employee details.
 
 <h3 align="center">📊 Status:</h3>
 <p align="center">
