@@ -1,12 +1,10 @@
-# 👋 Hi there, I'm Pravin Kale!
-
-## 🚀 About Me
-- 🌱 Currently learning **Java** and **spring Boot**.
-- 👨‍💻 Passionate about web development, full-stack projects, and solving real-world problems.
-- 🎯 Goal: Build scalable and user-friendly applications.
-
-## 💼 My Projects
-- **[Employee Management System App](https://github.com/pravinpk2002/employee-management-react-springboot)**: A full-stack CRUD application for managing employee records using Spring Boot for the backend and React for the frontend. The app supports features like adding, updating, deleting, and viewing employee details.
+👋 Hi there, I'm Pravin Kale!
+🚀 About Me
+💻 Freelancer, working with React, Node.js, Java, Spring Boot, and Python.
+🔥 Passionate about full-stack development, building scalable solutions, and solving real-world problems.
+🚀 A fast learner and highly adaptable to new technologies and challenges.
+🤝 Always open to collaborations and innovative projects.
+Let's connect and create something impactful!
 
 <h3 align="center">📊 Status:</h3>
 <p align="center">
