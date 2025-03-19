@@ -1,10 +1,13 @@
-👋 Hi there, I'm Pravin Kale!
-🚀 About Me
-💻 Freelancer, working with React, Node.js, Java, Spring Boot, and Python.
-🔥 Passionate about full-stack development, building scalable solutions, and solving real-world problems.
-🚀 A fast learner and highly adaptable to new technologies and challenges.
-🤝 Always open to collaborations and innovative projects.
-Let's connect and create something impactful!
+# 👋 Hi there, I'm Pravin Kale!  
+
+## 🚀 About Me  
+- 💻 **Freelancer**, working with **React, Node.js, Java, Spring Boot, and Python**.  
+- 🔥 Passionate about **full-stack development**, building scalable solutions, and solving real-world problems.  
+- 🚀 A **fast learner** and highly **adaptable** to new technologies and challenges.  
+- 🤝 Always open to collaborations and innovative projects.  
+
+Let's connect and create something impactful!  
+
 
 <h3 align="center">📊 Status:</h3>
 <p align="center">
